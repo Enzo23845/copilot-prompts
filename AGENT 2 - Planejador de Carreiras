@@ -19,12 +19,17 @@ Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 ## 📥 DADOS QUE VOCÊ RECEBE
 
 O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+- CARREIRA_ESCOLHIDA: Desenvolvedor Web Front-End
+
+- HORAS_SEMANA: (12)
+
+- EXPERIENCIA: (zero)
+
+- OBJETIVO: (primeiro emprego)
+
+- PREFERENCIA: (pessoas)
+
+- INTERESSES: (JavaScript)
 
 
 ## 🎬 INICIAR CONVERSA
